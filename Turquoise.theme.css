@@ -1,0 +1,115 @@
+/**
+ * @name Turquoise
+ * @author SimpLord
+ * @description Simple Theme Based on Three colors
+ * @version 1
+ */
+/*PS: i do not know how to code CSS, the following was written by purely trial and error and learning basic syntax, probably is messy and inefficient, so I apologize in advance :P*/
+.theme-dark{
+    --channels-default:rgb(240,240,240,0.8);
+    --interactive-normal:rgb(0,0,0,0.7);
+    --interactive-hover:honeydew;
+    --interactive-active:honeydew;
+    --text-link:cyan;
+    --background-mentioned-hover:transparent;
+    --background-message-hover:rgb(240,255,240,0.1);
+    --background-primary:transparent;
+    --background-secondary:transparent ;
+    --background-secondary-alt:transparent;
+    --background-tertiary:transparent;
+    --background-accent:transparent;
+    --background-floating:rgb(0,0,0,0.4);
+    --scrollbar-auto-thumb:rgb(0,0,0,0.25);
+    --scrollbar-auto-track:rgb(0,0,0,0.18);
+    --scrollbar-thin-thumb:rgb(0,0,0,0.2);
+
+}
+
+
+.app-2rEoOp{/*You Can Swap Image by changing the url*/
+    background-image:url(https://icanbecreative.com/resources/files/articles/40-high-resolution-wallpapers-for-minimalist-lovers/sources/mouse-minimalist-wallpaper-dark.png);
+    background-size:cover;
+    background-position:center;
+}
+
+.theme-dark
+.body-3iLsc4{
+    background-color:rgb(240,255,240,0.85);
+}
+
+.scrollableContainer-2NUZem{/*Text Box*/
+    background:rgb(240,255,240,0.6);
+}
+
+.scroller-RmtA4e{/*Channel List*/
+    background:rgb(0,0,0,0.03);
+    width:232px;
+}
+
+.container-3baos1{/*Avatar / Profile */
+    background:rgb(0,0,0,0.15);
+    height:67px;
+    width:215px;
+}
+
+.members-1998pB{/*Members*/
+    background:rgb(0,0,0,0.04);
+    width:240px;
+}
+
+.form-2fGMdU{/*Space below Txt Box*/
+    background:rgb(0,0,0,0);
+
+}
+
+.scroller-2TZvBN{/*Servers*/
+    background:rgb(0,0,0,0.2);
+}
+
+.withFrame-haYltI{/*Top Bar- Discord*/
+    background:rgb(240,255,240,0.8);
+}
+.scroller-3BxosC{
+    background:rgb(240,255,240,0.75);
+}
+
+ #app-mount .container-1D34oG{/*Friends/activr now*/
+    background: transparent;
+}
+
+.markup-2BOw-j{/*Text color in chat*/
+    color:rgb(0,0,0,0.75);
+}
+
+.icon-1DeIlz,/*Channe List*/
+.overflow-WK9Ogt,
+.icon-22AiRD{
+    color:rgb(240,255,240,0.6);
+}
+
+.circleIconButton-jET_ig{/*Explore and Add*/
+    color:honeydew;
+}
+
+.size12-3cLvbJ{/*User code and Some text*/
+    color:cyan;
+    opacity:0.7;
+}
+
+#bd-pub-button {
+    background-color:honeydew;
+    color:black;
+}
+.emptyPlaceholder-1zh-Eu,/*pinned messages*/
+.footer-1kmXd4{
+    background:rgb(240,255,240,0.4)
+}
+
+.messageGroupWrapper-o-Zw7G,/*pinned messages*/
+.header-ykumBX{
+    background-color:rgb(240,255,240,0.7);
+}
+
+/*Thats it for now, thanks for Checking it Out*/
+
+
